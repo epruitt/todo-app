@@ -5,3 +5,5 @@ buy
 make soup
 make pizza
 clean
+master python
+Master JavaScript
