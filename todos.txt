@@ -1,9 +1,6 @@
 help
-move
-meet
-buy
+ mommeet John
+buy book
 make soup
 make pizza
-clean
-master python
-Master JavaScript
+clean roomthrow away trash
