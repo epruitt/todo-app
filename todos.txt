@@ -1,0 +1,7 @@
+help
+move
+meet
+buy
+make soup
+make pizza
+clean
