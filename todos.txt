@@ -1,6 +1,5 @@
-help
- mommeet John
+help mom
 buy book
-make soup
 make pizza
-clean roomthrow away trash
+clean room
+throw away trash
